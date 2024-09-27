@@ -1,8 +1,8 @@
 👋 Hi, I’m @RushikeshTelrandhe
 💫 About Me:
 🌱 I’m currently learning Flutter,DSA,AI
-🌐 Socials:
-https://www.linkedin.com/in/rushikesh-telrandhe-336b05287/
+
+
 
 
 
