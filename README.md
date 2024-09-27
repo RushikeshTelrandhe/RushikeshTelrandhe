@@ -2,6 +2,8 @@
 💫 About Me:
 🌱 I’m currently learning Flutter,DSA,AI
 🌐 Socials:
+![image](https://github.com/user-attachments/assets/64c4ca8c-c9bc-4f0a-8c1b-962c891bbf64)
+
 
 
 
