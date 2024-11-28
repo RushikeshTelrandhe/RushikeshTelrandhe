@@ -1,7 +1,5 @@
 👋 Hi, I’m @RushikeshTelrandhe
 
-💫 About Me:
-🌱 I’m currently learning Flutter,DSA,AI
 
 
 
