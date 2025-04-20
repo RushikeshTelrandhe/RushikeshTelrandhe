@@ -20,6 +20,10 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
+## 📊 GitHub Stats:
+
+![Rushikesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RushikeshTelrandhe&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RushikeshTelrandhe&layout=compact&theme=dark)
 
 
 
