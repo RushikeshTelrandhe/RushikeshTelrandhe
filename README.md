@@ -10,23 +10,6 @@
 
 ---
 
-### 🚀 My Tech Stack
-- **Languages:** Python, C, C++, Dart, HTML, CSS  
-- **Frameworks:** Flask (for backend), Scikit-learn (for ML)  
-- **Tools & Libraries:** NumPy, Pandas, Matplotlib, Git, VS Code  
-- **Learning Now:** Reinforcement Learning, AI-powered apps with Gemini API
-
----
-
-### 📈 GitHub Stats
-![Rushikesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rushikeshtelrandhe&show_icons=true&theme=radical)
-
----
-
-
-
-
-
 
 ## 📫 Let's Connect on Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rushikesh-telrandhe-336b05287/)
@@ -50,6 +33,8 @@
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 
 ## 📊 GitHub Stats:
 
