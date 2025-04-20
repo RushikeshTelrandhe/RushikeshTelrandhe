@@ -25,6 +25,7 @@
 ![Rushikesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RushikeshTelrandhe&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RushikeshTelrandhe&layout=compact&theme=dark)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RushikeshTelrandhe&theme=dark)
 
 
 <!---
