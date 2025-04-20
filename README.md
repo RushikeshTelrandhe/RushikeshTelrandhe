@@ -1,6 +1,34 @@
-👋 Hi, I’m @RushikeshTelrandhe
+## 👋 Hi there, I'm Rushikesh Telrandhe
 
-## 🌐 Socials:
+🎓 2nd-year B.Tech student in **Artificial Intelligence** at G.H. Raisoni College of Engineering, Nagpur  
+🤖 Passionate about **Machine Learning**, **AI**, and building smart solutions  
+💡 Currently exploring: Data Structures in C, Advanced ML algorithms, and AI project development  
+🔧 Skilled in: Python, C, C++, Dart, HTML, CSS  
+🧠 Projects include: Fraud Detection, Movie Genre Classification, Customer Churn Prediction, and more  
+📚 Recent learning: Supervised ML, Regression, Classification, and Probabilistic Models  
+💬 Fun fact: I love playing chess and basketball in my free time!
+
+---
+
+### 🚀 My Tech Stack
+- **Languages:** Python, C, C++, Dart, HTML, CSS  
+- **Frameworks:** Flask (for backend), Scikit-learn (for ML)  
+- **Tools & Libraries:** NumPy, Pandas, Matplotlib, Git, VS Code  
+- **Learning Now:** Reinforcement Learning, AI-powered apps with Gemini API
+
+---
+
+### 📈 GitHub Stats
+![Rushikesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rushikeshtelrandhe&show_icons=true&theme=radical)
+
+---
+
+
+
+
+
+
+## 📫 Let's Connect on Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rushikesh-telrandhe-336b05287/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/rushikesh#4847)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushikeshtelrandhe07@gmail.com)
@@ -27,10 +55,9 @@
 
 ![Rushikesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RushikeshTelrandhe&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RushikeshTelrandhe&layout=compact&theme=dark)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RushikeshTelrandhe&theme=dark)
 
-
+Thanks for visiting! 😊
 <!---
 RushikeshTelrandhe/RushikeshTelrandhe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
