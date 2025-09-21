@@ -1,8 +1,8 @@
 ## 👋 Hi there, I'm Rushikesh Telrandhe
 
-🎓 2nd-year B.Tech student in **Artificial Intelligence** at G.H. Raisoni College of Engineering, Nagpur  
+🎓 3rd-year B.Tech student in **Artificial Intelligence** at G.H. Raisoni College of Engineering, Nagpur  
 🤖 Passionate about **Machine Learning**, **AI**, and building smart solutions  
-💡 Currently exploring: Data Structures in C, Advanced ML algorithms, and AI project development  
+💡 Currently exploring: Data Structures in Advanced ML algorithms, and AI project development  
 🔧 Skilled in: Python, C, C++, Dart, HTML, CSS  
 🧠 Projects include: Fraud Detection, Movie Genre Classification, Customer Churn Prediction, and more  
 📚 Recent learning: Supervised ML, Regression, Classification, and Probabilistic Models  
