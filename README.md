@@ -1,8 +1,6 @@
 <p align="center">
   <img src="assets/banner.svg" alt="Rushikesh Telrandhe" width="100%"/>
 </p>
-<h1 align="center">Hi, I'm Rushikesh Telrandhe 👋</h1>
-<p align="center">Final-year AI Engineering student · LLM Apps · Computer Vision · Deployment</p>
 
 ## About Me
 B.Tech AI Engineering student at **G H Raisoni College of Engineering, Nagpur** (CGPA 8.33, 2027). I build and ship LLM, retrieval-based and computer-vision systems, from model training to Dockerized deployment.
