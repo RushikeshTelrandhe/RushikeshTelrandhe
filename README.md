@@ -50,17 +50,16 @@ Interned at **Infosys Springboard** and **IBM SkillBuild**.
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge"/>
 
-### 🔗 Blockchain, Languages & Tools
+### 🔗  Languages & Tools
 <table><tr align="center">
-<td><img src="https://skillicons.dev/icons?i=solidity" width="48"/><br>Solidity</td>
 <td><img src="https://skillicons.dev/icons?i=c" width="48"/><br>C</td>
 <td><img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>C++</td>
 <td><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td>
 <td><img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub</td>
 <td><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code</td>
 </tr></table>
-
 </div>
+
 ## 📊 GitHub Activity
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=RushikeshTelrandhe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
