@@ -19,10 +19,18 @@ Interned at **Infosys Springboard** and **IBM SkillBuild**.
 ![](https://skillicons.dev/icons?i=fastapi,flask,postgres,sqlite,docker,githubactions,grafana)<br>
 **Languages & Tools:** <br>
 ![](https://skillicons.dev/icons?i=c,cpp,git,github,vscode)
+## 📊 GitHub Activity
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RushikeshTelrandhe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushikeshTelrandhe&layout=compact&theme=tokyonight&langs_count=6" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=RushikeshTelrandhe&theme=tokyonight&hide_border=true" />
+</p>
 
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=RushikeshTelrandhe&show_icons=true&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RushikeshTelrandhe&layout=compact&theme=tokyonight)
-
+<p align="center"><b>💡 Learn · Build · Solve · Impact</b></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RushikeshTelrandhe&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 ## Let's Connect
 [LinkedIn](https://www.linkedin.com/in/rushikesh-telrandhe-336b05287/) · [Email](mailto:rushikeshtelrandhe07@gmail.com)
