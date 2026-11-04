@@ -24,8 +24,8 @@ Interned at **Infosys Springboard** and **IBM SkillBuild**.
 <td><img src="https://skillicons.dev/icons?i=tensorflow" width="48"/><br>TensorFlow</td>
 <td><img src="https://skillicons.dev/icons?i=sklearn" width="48"/><br>Scikit-learn</td>
 <td><img src="https://skillicons.dev/icons?i=opencv" width="48"/><br>OpenCV</td>
-<td><img src="https://skillicons.dev/icons?i=pandas" width="48"/><br>Pandas</td>
-<td><img src="https://skillicons.dev/icons?i=numpy" width="48"/><br>NumPy</td>
+<td><img src="https://cdn.simpleicons.org/pandas/E70488" width="48" height="48"/><br>Pandas</td>
+<td><img src="https://cdn.simpleicons.org/numpy/4DABCF" width="48" height="48"/><br>NumPy</td>
 </tr></table>
 
 <img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=yolo&logoColor=white"/>
