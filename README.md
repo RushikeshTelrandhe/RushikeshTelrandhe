@@ -7,7 +7,7 @@ Interned at **Infosys Springboard** and **IBM SkillBuild**.
 
 ## Featured Projects
 | [**SafetyEye**: PPE Detection](https://github.com/springboardmentor425/B-13-SafetyEye-AI-Powered-Workplace-Occupancy-Safety-Monitor) | [**RESPIRA**: Chest X-Ray AI](https://github.com/RushikeshTelrandhe/RESPIRA-AI-Assisted-Chest-X-Ray-Analysis) |
-|---|---|
+|:---:|:---:|
 | Real-time PPE compliance with YOLOv8. **91.4% mAP@0.5**, 28+ FPS. ONNX + FastAPI + PostgreSQL + Grafana + Docker. | EfficientNet-B0 + ViT hybrid, 6-class diagnosis. **0.9643 macro ROC-AUC**, Grad-CAM explainability. |
 | [**Career Path Advisor**](https://github.com/RushikeshTelrandhe/Career_Path_Advisor) | [**BlueCarbon MRV**](https://github.com/RushikeshTelrandhe/BlueCarbon_MVR_System) |
 | Résumé parsing, SBERT role matching, skill-gap analysis. Streamlit. | Blockchain carbon credits (Solidity, Web3.py) + ML forecasting. |
@@ -19,6 +19,7 @@ Interned at **Infosys Springboard** and **IBM SkillBuild**.
 ![](https://skillicons.dev/icons?i=fastapi,flask,postgres,sqlite,docker,githubactions,grafana)<br>
 **Languages & Tools:** <br>
 ![](https://skillicons.dev/icons?i=c,cpp,git,github,vscode)
+
 ## 📊 GitHub Activity
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=RushikeshTelrandhe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -31,6 +32,7 @@ Interned at **Infosys Springboard** and **IBM SkillBuild**.
 <p align="center"><b>💡 Learn · Build · Solve · Impact</b></p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RushikeshTelrandhe&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 </p>
 ## Let's Connect
 
