@@ -33,8 +33,8 @@ Interned at **Infosys Springboard** and **IBM SkillBuild**.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RushikeshTelrandhe&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
-</p>
-## Let's Connect
+
+<h2>Let's Connect</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rushikesh-telrandhe-336b05287/"><img src="assets/linkedin.svg" alt="LinkedIn"/></a>
