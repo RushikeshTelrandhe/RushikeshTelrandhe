@@ -62,8 +62,8 @@ Interned at **Infosys Springboard** and **IBM SkillBuild**.
 
 ## 📊 GitHub Activity
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RushikeshTelrandhe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushikeshTelrandhe&layout=compact&theme=tokyonight&langs_count=6" />
+  <img height="170" src="profile-summary-card-output/tokyonight/3-stats.svg"/>
+  <img height="170" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=RushikeshTelrandhe&theme=tokyonight&hide_border=true" />
