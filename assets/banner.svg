@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05070d"/><stop offset="0.5" stop-color="#0b1730"/><stop offset="1" stop-color="#05070d"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#5aa9ff" stroke-opacity="0.08"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#3b82f6" stop-opacity="0.35"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="3"/></filter>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+  <ellipse cx="600" cy="150" rx="420" ry="120" fill="url(#glow)"/>
+
+  <!-- circuit lines -->
+  <g fill="none" stroke="#5aa9ff" stroke-opacity="0.45" stroke-width="1.5">
+    <path d="M0 60H180L220 100H380"/><path d="M0 240H140L190 190H320"/>
+    <path d="M1200 60H1020L980 100H820"/><path d="M1200 240H1060L1010 190H880"/>
+    <path d="M380 100V40H470"/><path d="M820 100V40H730"/>
+  </g>
+  <g fill="#7cc4ff" filter="url(#blur)">
+    <circle cx="380" cy="100" r="5"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="320" cy="190" r="5"><animate attributeName="opacity" values="1;0.3;1" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="820" cy="100" r="5"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="880" cy="190" r="5"><animate attributeName="opacity" values="1;0.3;1" dur="2.6s" repeatCount="indefinite"/></circle>
+  </g>
+  <g fill="#7cc4ff">
+    <circle cx="380" cy="100" r="3"/><circle cx="320" cy="190" r="3"/><circle cx="820" cy="100" r="3"/><circle cx="880" cy="190" r="3"/>
+    <circle cx="470" cy="40" r="3"/><circle cx="730" cy="40" r="3"/>
+  </g>
+
+  <!-- cycling text (12s loop) -->
+  <g font-family="Segoe UI,Arial,sans-serif" font-weight="700" fill="#ffffff" text-anchor="middle">
+    <text x="600" y="158" font-size="52" opacity="0">Hi, I'm Rushikesh Telrandhe
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.22;0.25;1" dur="12s" repeatCount="indefinite"/></text>
+    <text x="600" y="158" font-size="48" opacity="0">AI Engineering Student
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25;0.28;0.47;0.5;1" dur="12s" repeatCount="indefinite"/></text>
+    <text x="600" y="158" font-size="42" opacity="0">I build LLM &amp; Computer Vision systems
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5;0.53;0.72;0.75;1" dur="12s" repeatCount="indefinite"/></text>
+    <text x="600" y="158" font-size="48" opacity="0">Train · Ship · Deploy
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.75;0.78;0.97;1" dur="12s" repeatCount="indefinite"/></text>
+  </g>
+  <text x="600" y="205" text-anchor="middle" font-family="Consolas,monospace" font-size="18" fill="#7cc4ff" fill-opacity="0.8">YOLOv8 · PyTorch · FastAPI · Docker</text>
+</svg>
