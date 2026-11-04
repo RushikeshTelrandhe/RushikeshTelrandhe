@@ -33,15 +33,30 @@
   </g>
 
   <!-- cycling text (12s loop) -->
-  <g font-family="Segoe UI,Arial,sans-serif" font-weight="700" fill="#ffffff" text-anchor="middle">
-    <text x="600" y="158" font-size="52" opacity="0">Hi, I'm Rushikesh Telrandhe
-      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.22;0.25;1" dur="12s" repeatCount="indefinite"/></text>
-    <text x="600" y="158" font-size="48" opacity="0">AI Engineering Student
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25;0.28;0.47;0.5;1" dur="12s" repeatCount="indefinite"/></text>
-    <text x="600" y="158" font-size="42" opacity="0">I build LLM &amp; Computer Vision systems
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5;0.53;0.72;0.75;1" dur="12s" repeatCount="indefinite"/></text>
-    <text x="600" y="158" font-size="48" opacity="0">Train · Ship · Deploy
-      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.75;0.78;0.97;1" dur="12s" repeatCount="indefinite"/></text>
-  </g>
+  <defs>
+  <clipPath id="c0"><rect x="303" y="115" height="55" width="0"><animate attributeName="width" values="0;594;594;0;0" keyTimes="0;0.1;0.23;0.25;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+  <clipPath id="c1"><rect x="358" y="115" height="55" width="0"><animate attributeName="width" values="0;0;484;484;0;0" keyTimes="0;0.25;0.35;0.48;0.5;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+  <clipPath id="c2"><rect x="281" y="115" height="55" width="0"><animate attributeName="width" values="0;0;638;638;0;0" keyTimes="0;0.5;0.6;0.73;0.75;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+  <clipPath id="c3"><rect x="369" y="115" height="55" width="0"><animate attributeName="width" values="0;0;462;462;0" keyTimes="0;0.75;0.85;0.98;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+
+<g font-family="Consolas,'Courier New',monospace" font-size="36" font-weight="700" fill="#ffffff">
+  <text x="303" y="158" textLength="594" lengthAdjust="spacingAndGlyphs" clip-path="url(#c0)">Hi, I'm Rushikesh Telrandhe</text>
+  <text x="358" y="158" textLength="484" lengthAdjust="spacingAndGlyphs" clip-path="url(#c1)">AI Engineering Student</text>
+  <text x="281" y="158" textLength="638" lengthAdjust="spacingAndGlyphs" clip-path="url(#c2)">I build LLM &amp; Computer Vision</text>
+  <text x="369" y="158" textLength="462" lengthAdjust="spacingAndGlyphs" clip-path="url(#c3)">Train · Ship · Deploy</text>
+</g>
+
+<!-- cursors -->
+<g fill="#7cc4ff">
+  <g opacity="0"><animate attributeName="opacity" calcMode="discrete" values="1;1;1;0;0" keyTimes="0;0.1;0.23;0.25;1" dur="16s" repeatCount="indefinite"/>
+    <rect y="120" width="3" height="42"><animate attributeName="x" values="303;897;897;303;303" keyTimes="0;0.1;0.23;0.25;1" dur="16s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/></rect></g>
+  <g opacity="0"><animate attributeName="opacity" calcMode="discrete" values="0;1;1;1;0;0" keyTimes="0;0.25;0.35;0.48;0.5;1" dur="16s" repeatCount="indefinite"/>
+    <rect y="120" width="3" height="42"><animate attributeName="x" values="358;358;842;842;358;358" keyTimes="0;0.25;0.35;0.48;0.5;1" dur="16s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/></rect></g>
+  <g opacity="0"><animate attributeName="opacity" calcMode="discrete" values="0;1;1;1;0;0" keyTimes="0;0.5;0.6;0.73;0.75;1" dur="16s" repeatCount="indefinite"/>
+    <rect y="120" width="3" height="42"><animate attributeName="x" values="281;281;919;919;281;281" keyTimes="0;0.5;0.6;0.73;0.75;1" dur="16s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/></rect></g>
+  <g opacity="0"><animate attributeName="opacity" calcMode="discrete" values="0;1;1;1;0" keyTimes="0;0.75;0.85;0.98;1" dur="16s" repeatCount="indefinite"/>
+    <rect y="120" width="3" height="42"><animate attributeName="x" values="369;369;831;831;369" keyTimes="0;0.75;0.85;0.98;1" dur="16s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/></rect></g>
+</g>
   <text x="600" y="205" text-anchor="middle" font-family="Consolas,monospace" font-size="18" fill="#7cc4ff" fill-opacity="0.8">YOLOv8 · PyTorch · FastAPI · Docker</text>
 </svg>
