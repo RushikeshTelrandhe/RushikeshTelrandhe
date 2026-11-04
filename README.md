@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Rushikesh Telrandhe" width="100%"/>
+</p>
 <h1 align="center">Hi, I'm Rushikesh Telrandhe 👋</h1>
 <p align="center">Final-year AI Engineering student · LLM Apps · Computer Vision · Deployment</p>
 
